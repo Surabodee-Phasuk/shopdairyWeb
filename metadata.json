@@ -1,0 +1,6 @@
+{
+  "name": "Shob Diary",
+  "description": "คลังรีวิวสินค้าและป้ายยาของดีบอกต่อจาก Shob Diary ช้อปทุกวัน! ของดีบอกต่อ ช้อปง่ายๆ ผ่าน Shopee Affiliate",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
