@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Shob Diary - ช้อปทุกวัน! ของดีบอกต่อ
 
-# Run and deploy your AI Studio app
+ยินดีต้อนรับสู่ **Shob Diary** คลังป้ายยาสินค้าและออมดีลพิเศษประจำวันของพวกเรา! 
+พวกเราคือผู้แนะนำและรีวิวสินค้าแบบเจาะลึก คัดสรรมาอย่างดีตั้งแต่หนังสือสร้างแรงบันดาลใจ ของอร่อย เครื่องใช้มินิมอล จนถึงอุปกรณ์ตกแต่งโต๊ะทำงานที่ทำให้คุณตกหลุมรัก
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/f5d0a352-e6b5-41ee-bb22-739d4ee80bfa
+## 💡 ทำไมต้อง Shob Diary?
+* **รีวิวจริงใจ**: เราคัดเลือกสินค้าที่เราใช้จริงและประทับใจมาบอกต่อ
+* **อัปเดตทุกวัน**: ติดตามดีลเด็ด สินค้าใหม่ๆ ที่จะช่วยยกระดับคุณภาพชีวิตคุณในทุกๆ วัน
+* **ช้อปง่าย**: กดเข้าถึงลิงก์ Affiliate ของ Shopee ได้ทันที สะดวก ปลอดภัย
 
-## Run Locally
+## 📱 ช่องทางติดตามพวกเรา
+อย่าลืมกดติดตามพวกเราในทุกช่องทางเพื่อไม่ให้พลาดดีลปังๆ:
 
-**Prerequisites:**  Node.js
+* **Facebook**: [Shob Dairy - ช้อปทุกวันของดีบอกต่อ](https://www.facebook.com/profile.php?id=61589378985973)
+* **TikTok**: [@shobdaily](https://www.tiktok.com/@shobdaily)
+* **Instagram**: [@shobdairy](https://www.instagram.com/shobdairy/)
+* **YouTube**: [@shobdairyco](https://www.youtube.com/@shobdairyco)
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 เริ่มต้นใช้งานโปรเจกต์นี้ (สำหรับนักพัฒนา)
+หากคุณต้องการรันเว็บแอปพลิเคชันของเราในเครื่อง:
+
+1. **ติดตั้ง dependencies**:
+   ```bash
+   npm install
